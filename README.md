@@ -178,6 +178,7 @@ Performing INNER JOIN and LEFT JOIN operations.
 Filtering grouped data using HAVING.
 Analyzing sales and customer behavior.
 Solving real-world business problems using SQL.
+
 👨‍💻 Author
 
 Lokesh
